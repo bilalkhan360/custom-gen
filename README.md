@@ -29,7 +29,7 @@ be about 650kB.
 
 ```shell
 git clone https://github.com/bilalkhan360/custom-gen.git
-cd wynd-gen
+cd custom-gen
 git checkout v0.1.0 # or latest release
 cargo install --path .
 ```
