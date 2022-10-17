@@ -28,7 +28,7 @@ After that, you just need to clone and build the file. Then run it. The binary s
 be about 650kB.
 
 ```shell
-git clone https://github.com/cosmorama/wynd-gen.git
+git clone https://github.com/bilalkhan360/custom-gen.git
 cd wynd-gen
 git checkout v0.1.0 # or latest release
 cargo install --path .
